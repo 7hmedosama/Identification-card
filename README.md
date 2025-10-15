@@ -1,6 +1,8 @@
-# task6
+# task6 "Business Card"
 
 A task of Boot Camp Easy Learn .
+
+
 <img width="284" height="624" alt="Screenshot 2025-10-15 192123" src="https://github.com/user-attachments/assets/939c6cad-5e61-4edd-a146-8448765b8003" />
 
 ## Getting Started
